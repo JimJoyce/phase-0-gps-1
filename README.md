@@ -12,4 +12,4 @@ git push origin master - push changes
 git status - check the status
 git checkout -b add-command-log - add a branch
 ls - list everything
-subl . - open file in sublime
+subl . - open file in sublimegit
